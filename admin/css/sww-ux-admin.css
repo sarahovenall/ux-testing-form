@@ -1,0 +1,16 @@
+.response-set {
+    float: left;
+    width: 30%;
+    margin-right: 3%;
+}
+
+.response-set a {
+    display: block;
+    margin-bottom: 5px;
+}
+
+h3.clear-all {
+    clear: left;
+    margin-top: 50px;
+    padding-top: 30px;
+}
